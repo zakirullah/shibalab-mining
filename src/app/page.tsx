@@ -9,12 +9,12 @@ const WEBSITE_LAUNCH_DATE = '7 March 2026'
 
 // Mining Packages - 130% ROI - Different Light/Hard Colors
 const miningPackages = [
-  { id: 1, name: 'Starter', deposit: 100000, totalReturn: 130000, profit: 30000, daily: 1000, lightColor: 'bg-sky-100 border-sky-300', hardColor: 'from-sky-400 to-sky-600', textColor: 'text-sky-600', icon: '💎', image: '/shiba-coin.png' },
-  { id: 2, name: 'Bronze', deposit: 250000, totalReturn: 325000, profit: 75000, daily: 2500, lightColor: 'bg-orange-100 border-orange-300', hardColor: 'from-orange-400 to-orange-600', textColor: 'text-orange-600', icon: '🥉', image: '/shiba-mascot.png' },
-  { id: 3, name: 'Silver', deposit: 500000, totalReturn: 650000, profit: 150000, daily: 5000, lightColor: 'bg-slate-100 border-slate-300', hardColor: 'from-slate-400 to-slate-600', textColor: 'text-slate-600', icon: '🥈', image: '/shiba-coin.png' },
-  { id: 4, name: 'Gold', deposit: 1000000, totalReturn: 1300000, profit: 300000, daily: 10000, lightColor: 'bg-yellow-100 border-yellow-400', hardColor: 'from-yellow-400 to-amber-600', textColor: 'text-yellow-600', icon: '🥇', popular: true, image: '/shiba-mascot.png' },
-  { id: 5, name: 'Platinum', deposit: 2500000, totalReturn: 3250000, profit: 750000, daily: 25000, lightColor: 'bg-teal-100 border-teal-300', hardColor: 'from-teal-400 to-teal-600', textColor: 'text-teal-600', icon: '💠', image: '/shiba-coin.png' },
-  { id: 6, name: 'Diamond', deposit: 5000000, totalReturn: 6500000, profit: 1500000, daily: 50000, lightColor: 'bg-purple-100 border-purple-300', hardColor: 'from-purple-400 to-purple-600', textColor: 'text-purple-600', icon: '👑', image: '/shiba-mascot.png' },
+  { id: 1, name: 'Starter', deposit: 100000, totalReturn: 130000, profit: 30000, daily: 1000, lightColor: 'bg-sky-100 border-sky-300', hardColor: 'from-sky-400 to-sky-600', textColor: 'text-sky-600', icon: '💎', image: '/01.png' },
+  { id: 2, name: 'Bronze', deposit: 250000, totalReturn: 325000, profit: 75000, daily: 2500, lightColor: 'bg-orange-100 border-orange-300', hardColor: 'from-orange-400 to-orange-600', textColor: 'text-orange-600', icon: '🥉', image: '/02.png' },
+  { id: 3, name: 'Silver', deposit: 500000, totalReturn: 650000, profit: 150000, daily: 5000, lightColor: 'bg-slate-100 border-slate-300', hardColor: 'from-slate-400 to-slate-600', textColor: 'text-slate-600', icon: '🥈', image: '/03.png' },
+  { id: 4, name: 'Gold', deposit: 1000000, totalReturn: 1300000, profit: 300000, daily: 10000, lightColor: 'bg-yellow-100 border-yellow-400', hardColor: 'from-yellow-400 to-amber-600', textColor: 'text-yellow-600', icon: '🥇', popular: true, image: '/04.png' },
+  { id: 5, name: 'Platinum', deposit: 2500000, totalReturn: 3250000, profit: 750000, daily: 25000, lightColor: 'bg-teal-100 border-teal-300', hardColor: 'from-teal-400 to-teal-600', textColor: 'text-teal-600', icon: '💠', image: '/05.png' },
+  { id: 6, name: 'Diamond', deposit: 5000000, totalReturn: 6500000, profit: 1500000, daily: 50000, lightColor: 'bg-purple-100 border-purple-300', hardColor: 'from-purple-400 to-purple-600', textColor: 'text-purple-600', icon: '👑', image: '/06.png' },
 ]
 
 // Owner Plans
